@@ -8,7 +8,7 @@ import Git from "../../Assets/TechIcons/Git.svg";
 import Redux from "../../Assets/TechIcons/Redux.svg";
 import Tailwind from "../../Assets/TechIcons/Tailwind.svg";
 import Postman from "../../Assets/TechIcons/Postman.svg";
-import HTML5 from "../../Assets/TechIcons/HTML5.svg";
+import HTML5 from "../../Assets/TechIcons/html.svg";
 import CSS from "../../Assets/TechIcons/CSS.svg";
 import Bootstrap from "../../Assets/TechIcons/Bootstrap.svg";
 

@@ -574,6 +574,8 @@ button:focus {
   cursor: pointer !important;
   transition: outline-color 0.3s, outline-width 0.3s, transform 0.3s;
   color: white;
+  width: 24px;
+  height: 48px
 }
 
 .tech-icons-text {

@@ -1,15 +1,15 @@
 import React from "react";
 import { Col, Row } from "react-bootstrap";
-import macOs from "../../Assets/TechIcons/Apple MacOSX.svg";
 import chrome from "../../Assets/TechIcons/Google Chrome.svg";
 import vsCode from "../../Assets/TechIcons/vscode.svg";
 import Postman from "../../Assets/TechIcons/Postman.svg";
+import windows from "../../Assets/TechIcons/windows-11.svg";
 
 function Toolstack() {
   return (
     <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
       <Col xs={4} md={2} className="tech-icons">
-        <img src={macOs} alt="macOs" className="tech-icon-images" />
+        <img src={windows} alt="windows" className="tech-icon-images" />
         <div className="tech-icons-text">Windows</div>
       </Col>
       <Col xs={4} md={2} className="tech-icons ">
